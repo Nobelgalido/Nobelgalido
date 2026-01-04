@@ -1,7 +1,5 @@
 # Alfred Nobel F. Galido
 
-**Full Stack Developer | Cloud-Native Applications | React • Node.js • Docker • Kubernetes**
-
 📍 Sorsogon, Philippines  
 📧 galidoalfred@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/alfrednobelgalido)  
