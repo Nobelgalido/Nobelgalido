@@ -1,16 +1,41 @@
-## Hi there 👋
+# Alfred Nobel F. Galido
 
-<!--
-**Nobelgalido/Nobelgalido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Cloud-Native Applications | React • Node.js • Docker • Kubernetes**
 
-Here are some ideas to get you started:
+📍 Sorsogon, Philippines  
+📧 galidoalfred@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/alfrednobelgalido)  
+💻 [GitHub](https://github.com/Nobelgalido)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Computer Science graduate passionate about building clean, efficient, and scalable applications. Currently expanding expertise in cloud-native development and DevOps practices.
+
+I build things that work.
+
+**Current Focus:**
+- 📚 Continuous learning and skill development
+
+---
+
+## Tech Stack
+
+**Languages**  
+`JavaScript (ES6+)` `Python` `C#` `Java` `SQL` `HTML5` `CSS3` `Bash`
+
+**Frontend**  
+`React.js` `Redux` `Context API` `Responsive Design` `Modern CSS`
+
+**Backend**  
+`Node.js` `Express.js` `Flask` `Django` `.NET Framework` `RESTful APIs` `GraphQL`
+
+**Databases**  
+`MongoDB` `MySQL` `PostgreSQL` `Database Design` `Normalization`
+
+**DevOps & Cloud**  
+`Docker` `Kubernetes` `OpenShift` `IBM Cloud` `AWS (in progress)` `CI/CD` `Git/GitHub`
+
+**Tools**  
+`VS Code` `Postman` `Git` `npm` `Docker Compose`
