@@ -16,6 +16,7 @@ Computer Science graduate passionate about building clean, efficient, and scalab
 I build things that work.
 
 **Current Focus:**
+- landing my first job
 - 📚 Continuous learning and skill development
 
 ---
