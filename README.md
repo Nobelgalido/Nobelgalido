@@ -60,36 +60,9 @@ Computer Science graduate building production-ready applications and shipping re
 
 ---
 
-## 🚀 Featured Projects
-
-### [Code Review AI](https://github.com/Nobelgalido/code-review-ai)
-**Full-Stack SaaS | Next.js 15, TypeScript, Google Gemini AI**
-
-AI-powered code review platform that analyzes code for security vulnerabilities, performance issues, and best practices.
-
-- 🤖 Google Gemini 2.5 integration for intelligent code analysis
-- 🔐 Clerk authentication with Row Level Security
-- 💾 Supabase PostgreSQL with production-grade schema
-- ⚡ Rate limiting and error handling
-- 📊 Review history dashboard with Monaco editor
-
-**Tech:** Next.js 15, TypeScript, Google Gemini API, Clerk, Supabase, Tailwind CSS, Zod
-
----
-
 ## 📈 GitHub Stats
 
 ![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nobelgalido&show_icons=true&theme=tokyonight)
-
----
-
-## 🎯 What I'm Learning Now
-
-- ☁️ AWS Cloud Architecture & Services
-- 🐳 Advanced Docker & Kubernetes orchestration
-- 🧪 Test-Driven Development (TDD)
-- 🏗️ System Design & Architecture patterns
-- 🤖 AI/ML integration in web applications
 
 ---
 
