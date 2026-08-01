@@ -1,5 +1,5 @@
 # Alfred Nobel F. Galido
-**Software Developer | Actively Seeking Junior Dev Roles in Metro Manila**
+**Software Developer**
 
 📍 Sampaloc, Manila, Philippines
 📧 galidoalfred@gmail.com
