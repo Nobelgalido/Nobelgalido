@@ -96,10 +96,6 @@ Desktop BMS with Inventory, Sales, and Reporting modules built at CCDI. Source u
 
 ## 💼 Open to Opportunities
 
-Looking for **junior software developer roles in Metro Manila** — full-stack or backend.
-
-**Availability:** Immediate
-
 📧 galidoalfred@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/alfrednobelgalido)
 🌐 [alfrednobelgalido.vercel.app](https://alfrednobelgalido.vercel.app)
